@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amrmagdy12" alt="amrmagdy12" /></a> </p>
 
-- 🌱 I’m currently learning **Spring boot FW ,AngularJS.**
+- 🌱 I’m currently learning ** Angular FW , TypeScript .**
 
 - 👨‍💻 All of my projects are available at [https://github.com/amrmagdy12](https://github.com/amrmagdy12)
 
-- 💬 Ask me about **Java , HTML , CSS ,OOP , Multithreading , MVC architecture , MVVM architecture(Mobile).**
+- 💬 Ask me about **Java , HTML , CSS ,OOP , JavaScript , TypeScript , Multithreading , Git , Front and back-end Architectures , Android **
 
 - 📫 How to reach me **amr_magdy146@yahoo.com**
 
